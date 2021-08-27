@@ -1,5 +1,5 @@
 # Averaging-Program
-Averaging program which Fortran. 
+Averaging program with Fortran. 
 
 made with a group of three other students for a class
 
